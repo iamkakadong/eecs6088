@@ -1,0 +1,5 @@
+This is a README file for EECS 6088 homework1
+
+1) gcc -o hw1 hello.c
+
+2) ./hw1
